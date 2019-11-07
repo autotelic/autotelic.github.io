@@ -73,9 +73,8 @@ The first portion of the `Name` key of each parameter object is what chamber req
 
 This will delete the history for that secret as well.
 
-
-[1][https://aws.amazon.com/systems-manager/features/#Parameter_Store]
-[2][https://github.com/segmentio/chamber]
-[3][https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html]
-[4][https://github.com/99designs/aws-vault#installing]
-[5][https://github.com/segmentio/chamber/wiki/Installation#macos-binaries]
+[1]: https://aws.amazon.com/systems-manager/features/#Parameter_Store
+[2]: https://github.com/segmentio/chamber
+[3]: https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html
+[4]: https://github.com/99designs/aws-vault#installing
+[5]: https://github.com/segmentio/chamber/wiki/Installation#macos-binaries
