@@ -1,3 +1,1 @@
-# Autotelic Development Documentation
-
 
